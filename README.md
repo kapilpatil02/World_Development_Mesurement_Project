@@ -108,24 +108,6 @@ python train_model.py
 # Run Streamlit app
 streamlit run streamlit_app.py
 ```
-
-### macOS / Linux
-
-```bash
-# Create virtual environment
-python3 -m venv venv
-source venv/bin/activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Train model
-python train_model.py
-
-# Run Streamlit app
-streamlit run streamlit_app.py
-```
-
 ---
 
 ##  Usage Guide
