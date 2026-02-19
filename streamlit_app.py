@@ -1,21 +1,3 @@
-"""
-streamlit_app.py
-================
-
-Streamlit Web App for World Development Clustering Model
-
-A simple, interactive web application to classify countries based on
-their development indicators using a trained K-Means clustering model.
-
-HOW TO RUN:
------------
-1. Make sure you've trained the model: python train_model.py
-2. Install dependencies: pip install -r requirements.txt
-3. Run the app: streamlit run streamlit_app.py
-4. Open browser at: http://localhost:8501
-
-"""
-
 import streamlit as st
 import pandas as pd
 import numpy as np
